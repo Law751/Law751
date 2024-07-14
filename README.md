@@ -27,4 +27,12 @@
   <img src=https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white />  
 </p>
 
+<h1> Minhas Redes 🤓</h1>
+<a href="https://www.linkedin.com/in/rafael-m-teixeira-72239b295/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rafaelteixeirinha04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
