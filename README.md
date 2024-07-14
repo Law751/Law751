@@ -4,3 +4,4 @@
 <h1>Github Status 📈</h1>
 
 ![Rafael Martins Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Law751&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=law751&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
